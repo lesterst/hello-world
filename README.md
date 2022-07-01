@@ -7,4 +7,5 @@ This repository is built step by step in the tutorial.
 It now contains info about github also
 
 and more too
+new line
 
